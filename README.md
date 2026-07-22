@@ -259,17 +259,13 @@ I enjoy transforming ideas into complete software products—from responsive use
 ## 📊 GitHub Performance
 
 <div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taj22-47271-1&theme=tokyonight"
-    alt="GitHub Statistics"
-    height="180"
-  />
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taj22-47271-1&theme=tokyonight"
-    alt="Most Used Languages"
-    height="180"
-  />
+<img src="https://img.shields.io/github/followers/Taj22-47271-1?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+
+<img src="https://img.shields.io/github/stars/Taj22-47271-1?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars" alt="GitHub Stars" />
+
+<img src="https://komarev.com/ghpvc/?username=Taj22-47271-1&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 <br />

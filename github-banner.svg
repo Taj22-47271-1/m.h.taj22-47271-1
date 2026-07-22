@@ -1,11 +1,400 @@
-<div align="center">
-  <a href="https://mh-taj-portfolio.vercel.app/">
-    <img
-      src="./github-banner.svg"
-      alt="Md. Mahamodul Hasan Taj — Software Engineer and Full-Stack Developer"
-      width="100%"
-    />
-  </a>
-</div>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="360"
+     viewBox="0 0 1200 360"
+     role="img"
+     aria-labelledby="title desc">
 
-<br />
+  <title id="title">Animated GitHub banner for Md. Mahamodul Hasan Taj</title>
+  <desc id="desc">
+    A futuristic animated cyber banner showing Md. Mahamodul Hasan on the upper lines
+    and Taj below, with software engineering and full-stack development details.
+  </desc>
+
+  <defs>
+    <!-- Background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#07152d"/>
+      <stop offset="100%" stop-color="#17061f"/>
+      <animate attributeName="x1" values="0;140;0" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1200;1080;1200" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="neon" x1="80" y1="0" x2="1120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="48%" stop-color="#7c4dff"/>
+      <stop offset="100%" stop-color="#ff4fc3"/>
+      <animate attributeName="x1" values="80;280;80" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1120;920;1120" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="nameGradient" x1="0" y1="0" x2="620" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="45%" stop-color="#dce7ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+      <animate attributeName="x1" values="0;220;0" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="620;840;620" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="hasanGradient" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#7c4dff"/>
+      <stop offset="100%" stop-color="#ff4fc3"/>
+      <animate attributeName="x1" values="0;130;0" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="420;550;420" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <radialGradient id="cyanGlow">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity=".42"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="pinkGlow">
+      <stop offset="0%" stop-color="#ff4fc3" stop-opacity=".34"/>
+      <stop offset="100%" stop-color="#ff4fc3" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Grid -->
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34"
+            fill="none"
+            stroke="#8da0c8"
+            stroke-opacity=".09"
+            stroke-width="1"/>
+    </pattern>
+
+    <!-- Glows -->
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="bigGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="frameClip">
+      <rect width="1200" height="360" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameClip)">
+    <!-- Main background -->
+    <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+    <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+
+    <!-- Animated ambient lights -->
+    <ellipse cx="160" cy="80" rx="220" ry="170" fill="url(#cyanGlow)">
+      <animate attributeName="cx" values="150;210;150" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".65;1;.65" dur="5s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <ellipse cx="1040" cy="95" rx="265" ry="205" fill="url(#pinkGlow)">
+      <animate attributeName="cx" values="1040;980;1040" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".55;.95;.55" dur="6s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- Moving scan line -->
+    <rect x="0" y="-8" width="1200" height="5" fill="url(#neon)" opacity=".38" filter="url(#softGlow)">
+      <animate attributeName="y" values="-8;360;-8" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".08;.52;.08" dur="8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Outer frame -->
+    <rect x="22" y="22" width="1156" height="316" rx="24"
+          fill="none"
+          stroke="url(#neon)"
+          stroke-opacity=".52"
+          stroke-width="1.3">
+      <animate attributeName="stroke-opacity" values=".28;.78;.28" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="42" y="42" width="1116" height="276" rx="21"
+          fill="none"
+          stroke="url(#neon)"
+          stroke-opacity=".28"
+          stroke-width="1"/>
+
+    <!-- Animated top line -->
+    <rect x="130" y="41" width="370" height="2.5" rx="2" fill="url(#neon)" filter="url(#softGlow)">
+      <animate attributeName="x" values="130;480;130" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="140;370;140" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Decorative binary columns -->
+    <g font-family="Consolas, monospace" font-size="10" fill="#1ddcff" opacity=".34">
+      <text x="68" y="78">0</text>
+      <text x="68" y="96">1</text>
+      <text x="68" y="114">0</text>
+      <text x="68" y="132">1</text>
+      <text x="68" y="150">1</text>
+      <text x="68" y="168">0</text>
+      <text x="68" y="186">1</text>
+      <text x="68" y="204">0</text>
+      <animateTransform attributeName="transform"
+                        type="translate"
+                        values="0 0;0 16;0 0"
+                        dur="4s"
+                        repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".16;.48;.16" dur="4s" repeatCount="indefinite"/>
+    </g>
+
+    <g font-family="Consolas, monospace" font-size="10" fill="#bd55ff" opacity=".28">
+      <text x="1105" y="76">1</text>
+      <text x="1105" y="94">0</text>
+      <text x="1105" y="112">1</text>
+      <text x="1105" y="130">0</text>
+      <text x="1105" y="148">1</text>
+      <text x="1105" y="166">1</text>
+      <text x="1105" y="184">0</text>
+      <text x="1105" y="202">1</text>
+      <animateTransform attributeName="transform"
+                        type="translate"
+                        values="0 16;0 0;0 16"
+                        dur="4.8s"
+                        repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".12;.42;.12" dur="4.8s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- Floating particles -->
+    <g filter="url(#softGlow)">
+      <circle cx="252" cy="78" r="3.5" fill="#00e5ff">
+        <animate attributeName="cy" values="78;64;78" dur="3.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".25;1;.25" dur="3.2s" repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="690" cy="88" r="2.8" fill="#7c4dff">
+        <animate attributeName="cx" values="690;714;690" dur="4.1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".25;.9;.25" dur="4.1s" repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="1020" cy="78" r="3.5" fill="#ff4fc3">
+        <animate attributeName="cy" values="78;62;78" dur="3.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".3;1;.3" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+
+      <circle cx="958" cy="248" r="2.8" fill="#00e5ff">
+        <animate attributeName="cx" values="958;980;958" dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Left logo -->
+    <g transform="translate(82 104)">
+      <rect width="96" height="96" rx="23"
+            fill="#071126"
+            stroke="url(#neon)"
+            stroke-width="2.1"
+            filter="url(#softGlow)">
+        <animate attributeName="stroke-opacity" values=".65;1;.65" dur="3s" repeatCount="indefinite"/>
+      </rect>
+
+      <rect x="9" y="9" width="78" height="78" rx="18"
+            fill="none"
+            stroke="#6cecff"
+            stroke-opacity=".16"/>
+
+      <text x="48" y="61"
+            text-anchor="middle"
+            fill="#ffffff"
+            font-family="Segoe UI, Arial, sans-serif"
+            font-size="36"
+            font-weight="900">MT</text>
+
+      <circle cx="78" cy="18" r="5.2" fill="#00e5ff" filter="url(#softGlow)">
+        <animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- Identity label -->
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="215" y="92"
+            fill="#9ab1df"
+            font-size="14"
+            font-weight="700"
+            letter-spacing="5">SYSTEM IDENTITY</text>
+
+      <rect x="215" y="103" width="250" height="2.5" rx="2" fill="url(#neon)">
+        <animate attributeName="width" values="90;250;90" dur="4.8s" repeatCount="indefinite"/>
+      </rect>
+
+      <!-- Name: upper lines -->
+      <text x="215" y="155"
+            fill="url(#nameGradient)"
+            font-size="46"
+            font-weight="900"
+            letter-spacing=".6">MD. MAHAMODUL</text>
+
+      <text x="215" y="212"
+            fill="url(#hasanGradient)"
+            font-size="58"
+            font-weight="950"
+            letter-spacing="1.2"
+            filter="url(#softGlow)">HASAN
+        <animate attributeName="opacity" values=".86;1;.86" dur="3.8s" repeatCount="indefinite"/>
+      </text>
+
+      <!-- Taj below -->
+      <text x="215" y="260"
+            fill="url(#neon)"
+            font-size="45"
+            font-weight="950"
+            letter-spacing="8">TAJ
+        <animate attributeName="letter-spacing" values="8;13;8" dur="4s" repeatCount="indefinite"/>
+      </text>
+
+      <!-- Role -->
+      <text x="218" y="292"
+            fill="#f0f5ff"
+            font-size="19"
+            font-weight="700">Software Engineer • Full-Stack Developer</text>
+
+      <text x="218" y="319"
+            fill="#a9b9d8"
+            font-size="15.5">React • Next.js • NestJS • Laravel • Django • .NET • PostgreSQL</text>
+    </g>
+
+    <!-- Right terminal panel -->
+    <g transform="translate(825 82)">
+      <ellipse cx="150" cy="212" rx="142" ry="24" fill="#7c4dff" opacity=".13" filter="url(#bigGlow)">
+        <animate attributeName="rx" values="118;150;118" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".08;.24;.08" dur="4.5s" repeatCount="indefinite"/>
+      </ellipse>
+
+      <g>
+        <rect x="0" y="0" width="300" height="176" rx="22"
+              fill="#080d23"
+              fill-opacity=".94"
+              stroke="url(#neon)"
+              stroke-width="1.8"
+              filter="url(#softGlow)">
+          <animate attributeName="y" values="0;-5;0" dur="5s" repeatCount="indefinite"/>
+        </rect>
+
+        <circle cx="24" cy="24" r="5" fill="#ff4fc3"/>
+        <circle cx="43" cy="24" r="5" fill="#ffd166"/>
+        <circle cx="62" cy="24" r="5" fill="#00e5ff"/>
+
+        <path d="M238 20l16 16-16 16M279 20l-16 16 16 16"
+              fill="none"
+              stroke="url(#neon)"
+              stroke-width="4"
+              stroke-linecap="round"
+              stroke-linejoin="round">
+          <animate attributeName="opacity" values=".55;1;.55" dur="2.4s" repeatCount="indefinite"/>
+        </path>
+
+        <!-- Code lines -->
+        <g>
+          <rect x="28" y="65" width="88" height="6" rx="3" fill="#7c4dff">
+            <animate attributeName="width" values="48;88;48" dur="3s" repeatCount="indefinite"/>
+          </rect>
+
+          <rect x="125" y="65" width="72" height="6" rx="3" fill="#00e5ff">
+            <animate attributeName="width" values="30;72;30" dur="3.4s" repeatCount="indefinite"/>
+          </rect>
+
+          <rect x="44" y="84" width="132" height="6" rx="3" fill="#1f6cff">
+            <animate attributeName="width" values="68;132;68" dur="3.8s" repeatCount="indefinite"/>
+          </rect>
+
+          <rect x="185" y="84" width="76" height="6" rx="3" fill="#b83cff">
+            <animate attributeName="width" values="32;76;32" dur="3.2s" repeatCount="indefinite"/>
+          </rect>
+
+          <rect x="58" y="103" width="64" height="6" rx="3" fill="#ff4fc3">
+            <animate attributeName="width" values="26;64;26" dur="2.8s" repeatCount="indefinite"/>
+          </rect>
+
+          <rect x="132" y="103" width="110" height="6" rx="3" fill="#00e5ff">
+            <animate attributeName="width" values="50;110;50" dur="4s" repeatCount="indefinite"/>
+          </rect>
+
+          <rect x="44" y="122" width="108" height="6" rx="3" fill="#7c4dff">
+            <animate attributeName="width" values="46;108;46" dur="3.6s" repeatCount="indefinite"/>
+          </rect>
+
+          <rect x="162" y="122" width="84" height="6" rx="3" fill="#3978ff">
+            <animate attributeName="width" values="36;84;36" dur="3.1s" repeatCount="indefinite"/>
+          </rect>
+
+          <rect x="58" y="141" width="122" height="6" rx="3" fill="#5e42ff">
+            <animate attributeName="width" values="52;122;52" dur="4.2s" repeatCount="indefinite"/>
+          </rect>
+
+          <!-- Blinking cursor -->
+          <rect x="194" y="139" width="10" height="10" rx="2" fill="#00e5ff" filter="url(#softGlow)">
+            <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+
+      <!-- Holographic rings -->
+      <g transform="translate(150 215)" fill="none">
+        <ellipse rx="122" ry="20" stroke="#00e5ff" stroke-opacity=".32">
+          <animate attributeName="rx" values="84;122;84" dur="4s" repeatCount="indefinite"/>
+        </ellipse>
+
+        <ellipse rx="92" ry="15" stroke="#7c4dff" stroke-opacity=".52">
+          <animate attributeName="rx" values="64;92;64" dur="3.3s" repeatCount="indefinite"/>
+        </ellipse>
+
+        <ellipse rx="58" ry="10" stroke="#ff4fc3" stroke-opacity=".7" filter="url(#softGlow)">
+          <animate attributeName="rx" values="34;58;34" dur="2.7s" repeatCount="indefinite"/>
+        </ellipse>
+
+        <circle r="4.5" fill="#ffffff" stroke="none" filter="url(#softGlow)">
+          <animate attributeName="opacity" values=".25;1;.25" dur="1.7s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+
+    <!-- Bottom animated waves -->
+    <path d="M0 315C170 285 280 345 470 320S790 280 970 312S1110 325 1200 300"
+          fill="none"
+          stroke="#00e5ff"
+          stroke-width="2.2"
+          opacity=".78"
+          filter="url(#softGlow)">
+      <animate attributeName="d"
+               dur="7s"
+               repeatCount="indefinite"
+               values="
+                 M0 315C170 285 280 345 470 320S790 280 970 312S1110 325 1200 300;
+                 M0 308C170 300 280 330 470 312S790 292 970 305S1110 315 1200 292;
+                 M0 315C170 285 280 345 470 320S790 280 970 312S1110 325 1200 300"/>
+    </path>
+
+    <path d="M0 328C175 305 305 350 500 330S815 292 1000 322S1125 332 1200 314"
+          fill="none"
+          stroke="#ff4fc3"
+          stroke-width="2"
+          opacity=".68"
+          filter="url(#softGlow)">
+      <animate attributeName="d"
+               dur="8s"
+               repeatCount="indefinite"
+               values="
+                 M0 328C175 305 305 350 500 330S815 292 1000 322S1125 332 1200 314;
+                 M0 320C175 315 305 338 500 322S815 304 1000 315S1125 324 1200 306;
+                 M0 328C175 305 305 350 500 330S815 292 1000 322S1125 332 1200 314"/>
+    </path>
+
+    <!-- Bottom energy bar -->
+    <rect x="130" y="339" width="940" height="3" rx="2"
+          fill="url(#neon)"
+          opacity=".55"
+          filter="url(#bigGlow)">
+      <animate attributeName="opacity" values=".22;.85;.22" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="130;185;130" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="width" values="940;830;940" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

@@ -1,34 +1,37 @@
 <div align="center">
-  <img src="./assets/github-banner.svg" alt="M.H. Taj GitHub Banner" width="100%" />
+  <a href="https://mh-taj-portfolio.vercel.app/">
+    <img src="./github-banner.svg" alt="Md. Mahamodul Hasan Taj — Software Engineer and Full-Stack Developer" width="100%" />
+  </a>
 </div>
 
 <br />
 
-<h1 align="center">Hi, I'm Md. Mahamodul Hasan Taj 👋</h1>
+<h1 align="center">Md. Mahamodul Hasan Taj</h1>
+
+<p align="center">
+  <strong>Software Engineer · Full-Stack Developer · CSE Student at AIUB</strong>
+</p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;React+%26+Next.js+Developer;Backend+API+Developer;Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Modern+Full-Stack+Applications;React+%7C+Next.js+%7C+NestJS+%7C+Laravel;Secure+REST+APIs+%26+Database+Systems;Open+to+Internships+and+Professional+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
 <p align="center">
-  Computer Science & Engineering student at AIUB, majoring in Software Engineering.<br />
-  I build modern, secure, responsive, and database-driven web applications.
+  I design and develop modern, secure, responsive, and database-driven software solutions.<br />
+  My primary interests are full-stack web development, backend APIs, software engineering, and scalable business applications.
 </p>
 
 <div align="center">
-  <a href="https://github.com/Taj22-47271-1">
-    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://mh-taj-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mahamodul-hasan-taj-1a1926293/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mhtaj655@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.facebook.com/share/1AgMN28Awg/">
-    <img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -36,48 +39,52 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Taj22-47271-1&label=PROFILE+VIEWS&color=00bcd4&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Taj22-47271-1?label=FOLLOWERS&style=flat-square&color=bb55ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/Taj22-47271-1?label=FOLLOWERS&style=flat-square&color=7c3aed" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-16a34a?style=flat-square" alt="Open to Opportunities" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- 🎓 Studying **BSc in Computer Science & Engineering** at **American International University-Bangladesh (AIUB)**
-- 🧩 Major focus: **Software Engineering**
-- 💻 Building complete applications with **frontend, backend, databases, authentication, and APIs**
-- 🔐 Interested in secure authentication, authorization, role-based access control, and scalable systems
-- 🚀 Experienced with modern web development, desktop applications, relational databases, and business-management software
-- 📍 Based in **Dhaka, Bangladesh**
-- 📫 Reach me at **[mhtaj655@gmail.com](mailto:mhtaj655@gmail.com)**
+I am **Md. Mahamodul Hasan Taj**, a Computer Science and Engineering student at **American International University-Bangladesh (AIUB)**, majoring in **Software Engineering**.
+
+I enjoy transforming ideas into complete software products—from responsive user interfaces and secure backend APIs to database design, authentication, authorization, testing, and deployment. My project experience includes inventory systems, pharmacy platforms, SaaS applications, desktop software, ticket-management systems, and database-driven business applications.
+
+- 🔭 Currently developing full-stack and business-management applications
+- 🌱 Strengthening my skills in scalable architecture, secure APIs, Laravel, Next.js, NestJS, and Django
+- 🔐 Interested in authentication, authorization, role-based access control, and application security
+- 🤝 Open to internships, junior developer roles, collaborations, and freelance projects
+- 📍 Dhaka, Bangladesh
+- 🌐 [Visit my portfolio](https://mh-taj-portfolio.vercel.app/)
 
 ---
 
-## 🛠️ Technology Stack
+## 🧰 Technical Skills
 
 <div align="center">
 
-### Frontend
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="Frontend technologies" />
 
 <br />
 
-### Backend
+### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,dotnet,cs,python,django&perline=9" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,dotnet,cs,python,django&perline=9" alt="Backend technologies" />
 
 <br />
 
 ### Databases & ORM
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma&perline=5" alt="Database Skills" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma&perline=5" alt="Database technologies" />
 
 <br />
 
-### Tools & Platforms
+### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,visualstudio&perline=6" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,visualstudio,linux&perline=7" alt="Development tools" />
 
 <br />
 
@@ -85,74 +92,82 @@
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
 <div align="center">
 
 <a href="https://github.com/Taj22-47271-1/Laravel-project-smart-inventory">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taj22-47271-1&repo=Laravel-project-smart-inventory&theme=tokyonight&hide_border=true" alt="Smart Inventory Management System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taj22-47271-1&repo=Laravel-project-smart-inventory&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Smart Inventory Management System" />
 </a>
 
 <a href="https://github.com/Taj22-47271-1/smart-business-saas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taj22-47271-1&repo=smart-business-saas&theme=tokyonight&hide_border=true" alt="Smart Business SaaS" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taj22-47271-1&repo=smart-business-saas&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Smart Business SaaS" />
 </a>
 
 <a href="https://github.com/Taj22-47271-1/Pharmacy_Management_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taj22-47271-1&repo=Pharmacy_Management_System&theme=tokyonight&hide_border=true" alt="Pharmacy Management System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taj22-47271-1&repo=Pharmacy_Management_System&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Pharmacy Management System" />
 </a>
 
 <a href="https://github.com/Taj22-47271-1/Supershop_webtech_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taj22-47271-1&repo=Supershop_webtech_project&theme=tokyonight&hide_border=true" alt="Super Shop Management System" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taj22-47271-1&repo=Supershop_webtech_project&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Super Shop Management System" />
 </a>
 
 </div>
 
-### Project Highlights
+### Project Portfolio
 
-| Project | Main Technologies | Key Features |
+| Project | Technology | Highlights |
 |---|---|---|
-| [Smart Inventory Management System](https://github.com/Taj22-47271-1/Laravel-project-smart-inventory) | Laravel 13, Livewire 4, Flux UI, Tailwind CSS, MySQL | Products, suppliers, customers, purchases, sales, returns, stock, payments, reports, and role-based access |
-| [Smart Business SaaS](https://github.com/Taj22-47271-1/smart-business-saas) | Next.js 16, Django 5, Django REST Framework, Tailwind CSS, SQLite | Subscriptions, payments, inventory, invoices, due tracking, reports, team roles, vouchers, and real-time support chat |
-| [Pharmacy Management System](https://github.com/Taj22-47271-1/Pharmacy_Management_System) | Next.js, React, NestJS, PostgreSQL, JWT | Authentication, OTP verification, medicine inventory, suppliers, billing, and secure REST APIs |
-| [Super Shop Management System](https://github.com/Taj22-47271-1/Supershop_webtech_project) | PHP, MySQL, HTML, CSS, JavaScript | Product management, database connectivity, and web-based user interaction |
-| [C# Desktop Application](https://github.com/Taj22-47271-1/C_SHARP_PROJECT) | C#, .NET Framework, Windows Forms, OOP | Desktop UI, object-oriented design, testing, and debugging |
-| [C# Super Shop](https://github.com/Taj22-47271-1/C-Super-shop) | C#, .NET Framework, Windows Forms, SQL Server | Product management, pricing, and database operations |
-| [Plane Ticket Management System](https://github.com/Taj22-47271-1/JavaProject) | Java, OOP, GUI, Database | Passenger details, ticket booking, scheduling, and ticket management |
+| [Smart Inventory Management System](https://github.com/Taj22-47271-1/Laravel-project-smart-inventory) | Laravel 13, Livewire 4, Flux UI, Tailwind CSS, MySQL | Product, supplier, customer, purchase, sales, returns, stock, payments, reporting, and role-based access management |
+| [Smart Business SaaS](https://github.com/Taj22-47271-1/smart-business-saas) | Next.js 16, Django 5, Django REST Framework, Tailwind CSS, SQLite | Subscription plans, payment approval, inventory, invoices, due tracking, expenses, vouchers, team roles, reports, and real-time support chat |
+| [Pharmacy Management System](https://github.com/Taj22-47271-1/Pharmacy_Management_System) | Next.js, React, NestJS, PostgreSQL, JWT | Secure authentication, OTP verification, medicine inventory, supplier management, billing, and REST APIs |
+| [Super Shop Management System](https://github.com/Taj22-47271-1/Supershop_webtech_project) | PHP, MySQL, HTML, CSS, JavaScript | Product management, database connectivity, and web-based business operations |
+| [C# Desktop Application](https://github.com/Taj22-47271-1/C_SHARP_PROJECT) | C#, .NET Framework, Windows Forms, OOP | Desktop interface development, object-oriented design, testing, and debugging |
+| [C# Super Shop](https://github.com/Taj22-47271-1/C-Super-shop) | C#, .NET Framework, Windows Forms, SQL Server | Product, pricing, and database management for a desktop business application |
+| [Plane Ticket Management System](https://github.com/Taj22-47271-1/JavaProject) | Java, OOP, GUI, Database | Passenger information, ticket booking, scheduling, and ticket management |
 | [React Frontend Projects](https://github.com/Taj22-47271-1/all-react-projects) | React, Vite, Axios, CSS | Reusable components, routing, API integration, and responsive interfaces |
-| [Database Management System](https://github.com/Taj22-47271-1/database) | Oracle SQL, MySQL, SQL | Database design, normalization, queries, CRUD, and schema management |
+| [Database Management System](https://github.com/Taj22-47271-1/database) | Oracle SQL, MySQL, SQL | Database design, normalization, CRUD operations, queries, and schema management |
+
+<p align="center">
+  <a href="https://mh-taj-portfolio.vercel.app/#projects">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-Visit_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore all projects" />
+  </a>
+</p>
 
 ---
 
 ## 💼 Professional Experience
 
 ### Full-Stack Development Intern
-**Codveda Technologies — Remote, India**  
+**Codveda Technologies · Remote, India**  
 `June 2026 – Present`
 
-- Developing frontend and backend components
-- Integrating APIs and optimizing database performance
-- Improving application performance and scalability
-- Contributing to complete and reliable digital solutions
+- Develop frontend and backend application components
+- Integrate REST APIs and connect database-driven functionality
+- Improve application performance, maintainability, and scalability
+- Contribute to complete digital products and software solutions
 
 ### Office Operations & Client Support
-**Future Cloud Bangladesh Limited — Banani, Dhaka**
+**Future Cloud Bangladesh Limited · Banani, Dhaka**
 
-- Managed office operations, reports, documentation, and workflow coordination
+- Managed office operations, documentation, reporting, and workflow coordination
 - Communicated with international clients through email, chat, and calls
 - Supported BPO and IT-enabled service operations
-- Used Microsoft Excel and Word for data management and reporting
-- Developed customer support, teamwork, multitasking, and communication skills
+- Maintained business data and reports using Microsoft Excel and Word
+- Strengthened communication, teamwork, multitasking, and customer-support skills
 
 ---
 
-## 🏆 Certificates
+## 🏅 Certifications
 
-| Certificate | Issuer | Date |
+| Certification | Issuer | Date |
 |---|---|---|
 | [Elements of AI](https://certificates.mooc.fi/validate/16ote8ilfnkh) | University of Helsinki & MinnaLearn | June 26, 2026 |
 | [Responsive Web Design](https://freecodecamp.org/certification/mhtaj/responsive-web-design) | freeCodeCamp | 2026 |
@@ -165,7 +180,7 @@
 
 ## 🎓 Education
 
-| Degree | Institution | Period |
+| Qualification | Institution | Period |
 |---|---|---|
 | BSc in Computer Science and Engineering | American International University-Bangladesh (AIUB) | 2022 – Present |
 | Higher Secondary Certificate (HSC) | Shahid Mamun Mahmud Police Line School & College, Rajshahi | 2019 – 2020 |
@@ -173,23 +188,23 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Taj22-47271-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taj22-47271-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Taj22-47271-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taj22-47271-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Most used languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Taj22-47271-1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Taj22-47271-1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taj22-47271-1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taj22-47271-1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="98%" />
 </div>
 
 ---
@@ -197,55 +212,56 @@
 ## 🌐 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 </div>
-
-> The 3D graph appears after you run the included **GitHub-Profile-3D-Contrib** workflow once.
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="./dist/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="./dist/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> The snake animation appears after you run the included **Generate Contribution Snake** workflow once.
 
 ---
 
 ## 🤝 Services
 
-- Frontend Development
-- Backend API Development
-- Full-Stack Web Development
-- Database Design and SQL
-- Portfolio Website Development
-- Responsive Web Design
+- Full-Stack Web Application Development
+- Frontend Development with React and Next.js
+- Backend API Development with NestJS, Laravel, and Django
+- Authentication and Role-Based Access Control
+- Relational Database Design and SQL
+- Responsive Portfolio and Business Website Development
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact
 
 <div align="center">
 
-| Contact | Details |
+| Platform | Details |
 |---|---|
+| Portfolio | [mh-taj-portfolio.vercel.app](https://mh-taj-portfolio.vercel.app/) |
 | Email | [mhtaj655@gmail.com](mailto:mhtaj655@gmail.com) |
 | Phone | [+880 1728-662572](tel:+8801728662572) |
 | Location | Dhaka, Bangladesh |
-| GitHub | [Taj22-47271-1](https://github.com/Taj22-47271-1) |
 | LinkedIn | [Md. Mahamodul Hasan Taj](https://www.linkedin.com/in/mahamodul-hasan-taj-1a1926293/) |
+| GitHub | [Taj22-47271-1](https://github.com/Taj22-47271-1) |
 
 </div>
 
----
+<br />
 
 <div align="center">
-  <h3>Thanks for visiting my profile! 🚀</h3>
-  <p>Open to internships, professional opportunities, collaborations, and software-development projects.</p>
+  <a href="https://mh-taj-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-Visit_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
+  </a>
+
+  <h3>Thank you for visiting my GitHub profile.</h3>
+  <p>Open to internships, junior developer positions, collaborations, and professional software-development opportunities.</p>
 </div>

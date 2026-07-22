@@ -271,7 +271,7 @@ I enjoy transforming ideas into complete software products—from responsive use
 <div align="center">
   <img
     src="./profile-3d-contrib/profile-night-rainbow.svg"
-    alt="3D Contribution Graph"
+    alt="GitHub 3D Contribution Graph"
     width="100%"
   />
 </div>

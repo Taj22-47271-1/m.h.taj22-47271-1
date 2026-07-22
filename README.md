@@ -14,7 +14,7 @@
 
 <div align="center">
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Modern+Full-Stack+Applications;React+%7C+Next.js+%7C+NestJS+%7C+Laravel;Secure+REST+APIs+%26+Database+Systems;Open+to+Internships+and+Professional+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,47 +43,46 @@
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-16a34a?style=flat-square" alt="Open to Opportunities" />
 </div>
 
-👨‍💻 Professional Summary
+---
 
-I am Md. Mahamodul Hasan Taj, a Computer Science and Engineering student at American International University-Bangladesh (AIUB), majoring in Software Engineering.
+## 👨‍💻 Professional Summary
+
+I am **Md. Mahamodul Hasan Taj**, a Computer Science and Engineering student at **American International University-Bangladesh (AIUB)**, majoring in **Software Engineering**.
 
 I enjoy transforming ideas into complete software products—from responsive user interfaces and secure backend APIs to database design, authentication, authorization, testing, and deployment. My project experience includes inventory systems, pharmacy platforms, SaaS applications, desktop software, ticket-management systems, and database-driven business applications.
 
-🔭 Currently developing full-stack and business-management applications
+- 🔭 Currently developing full-stack and business-management applications
+- 🌱 Strengthening my skills in scalable architecture, secure APIs, Laravel, Next.js, NestJS, and Django
+- 🔐 Interested in authentication, authorization, role-based access control, and application security
+- 🤝 Open to internships, junior developer roles, collaborations, and freelance projects
+- 📍 Dhaka, Bangladesh
+- 🌐 [Visit my portfolio](https://mh-taj-portfolio.vercel.app/)
 
-🌱 Strengthening my skills in scalable architecture, secure APIs, Laravel, Next.js, NestJS, and Django
+---
 
-🔐 Interested in authentication, authorization, role-based access control, and application security
-
-🤝 Open to internships, junior developer roles, collaborations, and freelance projects
-
-📍 Dhaka, Bangladesh
-
-🌐 Visit my portfolio
-
-🧰 Technical Skills
+## 🧰 Technical Skills
 
 <div align="center">
 
-Frontend Development
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="Frontend technologies" />
 
 <br />
 
-Backend Development
+### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,dotnet,cs,python,django&perline=9" alt="Backend technologies" />
 
 <br />
 
-Databases & ORM
+### Databases & ORM
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma&perline=5" alt="Database technologies" />
 
 <br />
 
-Development Tools
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,visualstudio,linux&perline=7" alt="Development tools" />
 
@@ -98,7 +97,9 @@ Development Tools
 
 </div>
 
-🚀 Selected Projects
+---
+
+## 🚀 Selected Projects
 
 <table>
   <tr>
@@ -167,67 +168,19 @@ Development Tools
   </a>
 </p>
 
-Project Portfolio
+### Project Portfolio
 
-Project
-
-Technology
-
-Highlights
-
-Smart Inventory Management System
-
-Laravel 13, Livewire 4, Flux UI, Tailwind CSS, MySQL
-
-Product, supplier, customer, purchase, sales, returns, stock, payments, reporting, and role-based access management
-
-Smart Business SaaS
-
-Next.js 16, Django 5, Django REST Framework, Tailwind CSS, SQLite
-
-Subscription plans, payment approval, inventory, invoices, due tracking, expenses, vouchers, team roles, reports, and real-time support chat
-
-Pharmacy Management System
-
-Next.js, React, NestJS, PostgreSQL, JWT
-
-Secure authentication, OTP verification, medicine inventory, supplier management, billing, and REST APIs
-
-Super Shop Management System
-
-PHP, MySQL, HTML, CSS, JavaScript
-
-Product management, database connectivity, and web-based business operations
-
-C# Desktop Application
-
-C#, .NET Framework, Windows Forms, OOP
-
-Desktop interface development, object-oriented design, testing, and debugging
-
-C# Super Shop
-
-C#, .NET Framework, Windows Forms, SQL Server
-
-Product, pricing, and database management for a desktop business application
-
-Plane Ticket Management System
-
-Java, OOP, GUI, Database
-
-Passenger information, ticket booking, scheduling, and ticket management
-
-React Frontend Projects
-
-React, Vite, Axios, CSS
-
-Reusable components, routing, API integration, and responsive interfaces
-
-Database Management System
-
-Oracle SQL, MySQL, SQL
-
-Database design, normalization, CRUD operations, queries, and schema management
+| Project | Technology | Highlights |
+|---|---|---|
+| [Smart Inventory Management System](https://github.com/Taj22-47271-1/Laravel-project-smart-inventory) | Laravel 13, Livewire 4, Flux UI, Tailwind CSS, MySQL | Product, supplier, customer, purchase, sales, returns, stock, payments, reporting, and role-based access management |
+| [Smart Business SaaS](https://github.com/Taj22-47271-1/smart-business-saas) | Next.js 16, Django 5, Django REST Framework, Tailwind CSS, SQLite | Subscription plans, payment approval, inventory, invoices, due tracking, expenses, vouchers, team roles, reports, and real-time support chat |
+| [Pharmacy Management System](https://github.com/Taj22-47271-1/Pharmacy_Management_System) | Next.js, React, NestJS, PostgreSQL, JWT | Secure authentication, OTP verification, medicine inventory, supplier management, billing, and REST APIs |
+| [Super Shop Management System](https://github.com/Taj22-47271-1/Supershop_webtech_project) | PHP, MySQL, HTML, CSS, JavaScript | Product management, database connectivity, and web-based business operations |
+| [C# Desktop Application](https://github.com/Taj22-47271-1/C_SHARP_PROJECT) | C#, .NET Framework, Windows Forms, OOP | Desktop interface development, object-oriented design, testing, and debugging |
+| [C# Super Shop](https://github.com/Taj22-47271-1/C-Super-shop) | C#, .NET Framework, Windows Forms, SQL Server | Product, pricing, and database management for a desktop business application |
+| [Plane Ticket Management System](https://github.com/Taj22-47271-1/JavaProject) | Java, OOP, GUI, Database | Passenger information, ticket booking, scheduling, and ticket management |
+| [React Frontend Projects](https://github.com/Taj22-47271-1/all-react-projects) | React, Vite, Axios, CSS | Reusable components, routing, API integration, and responsive interfaces |
+| [Database Management System](https://github.com/Taj22-47271-1/database) | Oracle SQL, MySQL, SQL | Database design, normalization, CRUD operations, queries, and schema management |
 
 <p align="center">
   <a href="https://mh-taj-portfolio.vercel.app/#projects">
@@ -235,105 +188,54 @@ Database design, normalization, CRUD operations, queries, and schema management
   </a>
 </p>
 
-💼 Professional Experience
+---
 
-Full-Stack Development Intern
+## 💼 Professional Experience
 
-Codveda Technologies · Remote, IndiaJune 2026 – Present
+### Full-Stack Development Intern
+**Codveda Technologies · Remote, India**  
+`June 2026 – Present`
 
-Develop frontend and backend application components
+- Develop frontend and backend application components
+- Integrate REST APIs and connect database-driven functionality
+- Improve application performance, maintainability, and scalability
+- Contribute to complete digital products and software solutions
 
-Integrate REST APIs and connect database-driven functionality
+### Office Operations & Client Support
+**Future Cloud Bangladesh Limited · Banani, Dhaka**
 
-Improve application performance, maintainability, and scalability
+- Managed office operations, documentation, reporting, and workflow coordination
+- Communicated with international clients through email, chat, and calls
+- Supported BPO and IT-enabled service operations
+- Maintained business data and reports using Microsoft Excel and Word
+- Strengthened communication, teamwork, multitasking, and customer-support skills
 
-Contribute to complete digital products and software solutions
+---
 
-Office Operations & Client Support
+## 🏅 Certifications
 
-Future Cloud Bangladesh Limited · Banani, Dhaka
+| Certification | Issuer | Date |
+|---|---|---|
+| [Elements of AI](https://certificates.mooc.fi/validate/16ote8ilfnkh) | University of Helsinki & MinnaLearn | June 26, 2026 |
+| [Responsive Web Design](https://freecodecamp.org/certification/mhtaj/responsive-web-design) | freeCodeCamp | 2026 |
+| [Critical Thinking in the AI Era](https://www.life-global.org/certificate/aa3da6f6-c74b-454a-9725-a092e011d478/aa3da6f6-c74b-454a-9725-a092e011d478.pdf) | HP LIFE / HP Foundation | June 26, 2026 |
+| [Agile Project Management](https://www.life-global.org/certificate/db94c346-9deb-44f8-a52f-38b45f4e9bef) | HP LIFE / HP Foundation | June 26, 2026 |
+| [Introduction to Cybersecurity Awareness](https://www.life-global.org/certificate/17b48619-b26f-4c9c-9b07-65e402083929) | HP LIFE / HP Foundation | June 26, 2026 |
+| [Data Science & Analytics](https://www.life-global.org/certificate/976512d0-07dd-4627-bbac-9374a1cbb745) | HP LIFE / HP Foundation | June 26, 2026 |
 
-Managed office operations, documentation, reporting, and workflow coordination
+---
 
-Communicated with international clients through email, chat, and calls
+## 🎓 Education
 
-Supported BPO and IT-enabled service operations
+| Qualification | Institution | Period |
+|---|---|---|
+| BSc in Computer Science and Engineering | American International University-Bangladesh (AIUB) | 2022 – Present |
+| Higher Secondary Certificate (HSC) | Shahid Mamun Mahmud Police Line School & College, Rajshahi | 2019 – 2020 |
+| Secondary School Certificate (SSC) | Sristy Central School & College, Rajshahi | 2017 – 2018 |
 
-Maintained business data and reports using Microsoft Excel and Word
+---
 
-Strengthened communication, teamwork, multitasking, and customer-support skills
-
-🏅 Certifications
-
-Certification
-
-Issuer
-
-Date
-
-Elements of AI
-
-University of Helsinki & MinnaLearn
-
-June 26, 2026
-
-Responsive Web Design
-
-freeCodeCamp
-
-2026
-
-Critical Thinking in the AI Era
-
-HP LIFE / HP Foundation
-
-June 26, 2026
-
-Agile Project Management
-
-HP LIFE / HP Foundation
-
-June 26, 2026
-
-Introduction to Cybersecurity Awareness
-
-HP LIFE / HP Foundation
-
-June 26, 2026
-
-Data Science & Analytics
-
-HP LIFE / HP Foundation
-
-June 26, 2026
-
-🎓 Education
-
-Qualification
-
-Institution
-
-Period
-
-BSc in Computer Science and Engineering
-
-American International University-Bangladesh (AIUB)
-
-2022 – Present
-
-Higher Secondary Certificate (HSC)
-
-Shahid Mamun Mahmud Police Line School & College, Rajshahi
-
-2019 – 2020
-
-Secondary School Certificate (SSC)
-
-Sristy Central School & College, Rajshahi
-
-2017 – 2018
-
-📊 GitHub Performance
+## 📊 GitHub Performance
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Taj22-47271-1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub statistics" />
@@ -352,13 +254,17 @@ Sristy Central School & College, Rajshahi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taj22-47271-1&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="98%" />
 </div>
 
-🌐 3D Contribution Graph
+---
+
+## 🌐 3D Contribution Graph
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
 </div>
 
-🐍 Contribution Activity
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -368,51 +274,31 @@ Sristy Central School & College, Rajshahi
   </picture>
 </div>
 
-🤝 Services
+---
 
-Full-Stack Web Application Development
+## 🤝 Services
 
-Frontend Development with React and Next.js
+- Full-Stack Web Application Development
+- Frontend Development with React and Next.js
+- Backend API Development with NestJS, Laravel, and Django
+- Authentication and Role-Based Access Control
+- Relational Database Design and SQL
+- Responsive Portfolio and Business Website Development
 
-Backend API Development with NestJS, Laravel, and Django
+---
 
-Authentication and Role-Based Access Control
-
-Relational Database Design and SQL
-
-Responsive Portfolio and Business Website Development
-
-📬 Contact
+## 📬 Contact
 
 <div align="center">
 
-Platform
-
-Details
-
-Portfolio
-
-mh-taj-portfolio.vercel.app
-
-Email
-
-mhtaj655@gmail.com
-
-Phone
-
-+880 1728-662572
-
-Location
-
-Dhaka, Bangladesh
-
-LinkedIn
-
-Md. Mahamodul Hasan Taj
-
-GitHub
-
-Taj22-47271-1
+| Platform | Details |
+|---|---|
+| Portfolio | [mh-taj-portfolio.vercel.app](https://mh-taj-portfolio.vercel.app/) |
+| Email | [mhtaj655@gmail.com](mailto:mhtaj655@gmail.com) |
+| Phone | [+880 1728-662572](tel:+8801728662572) |
+| Location | Dhaka, Bangladesh |
+| LinkedIn | [Md. Mahamodul Hasan Taj](https://www.linkedin.com/in/mahamodul-hasan-taj-1a1926293/) |
+| GitHub | [Taj22-47271-1](https://github.com/Taj22-47271-1) |
 
 </div>
 

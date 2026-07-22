@@ -266,22 +266,17 @@ I enjoy transforming ideas into complete software products—from responsive use
 
 ---
 
-<!--
-3D GRAPH SECTION IS HIDDEN TO PREVENT A BROKEN IMAGE.
-
-After this file exists:
-profile-3d-contrib/profile-night-rainbow.svg
-
-remove the opening and closing comment markers around the section below.
-
 ## 🌐 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img
+    src="./profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D Contribution Graph"
+    width="100%"
+  />
 </div>
 
 ---
--->
 
 ## 🐍 Contribution Activity
 

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">M.H. Taj GitHub Profile Banner</title>
+  <desc id="desc">Cyber-inspired banner for software engineer and full stack developer Md. Mahamodul Hasan Taj.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#050914"/>
+      <stop offset="52%" stop-color="#08162a"/>
+      <stop offset="100%" stop-color="#160924"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="52%" stop-color="#7c4dff"/>
+      <stop offset="100%" stop-color="#ff4fc3"/>
+    </linearGradient>
+
+    <radialGradient id="glowCyan">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity=".42"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowPink">
+      <stop offset="0%" stop-color="#ff4fc3" stop-opacity=".34"/>
+      <stop offset="100%" stop-color="#ff4fc3" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M52 0H0V52" fill="none" stroke="#6e7b9c" stroke-opacity=".16" stroke-width="1"/>
+    </pattern>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+
+  <circle cx="180" cy="72" r="150" fill="url(#glowCyan)"/>
+  <circle cx="1060" cy="80" r="210" fill="url(#glowPink)"/>
+  <circle cx="720" cy="350" r="250" fill="url(#glowCyan)" opacity=".42"/>
+
+  <path d="M0 302C235 262 372 344 590 304S939 252 1200 296" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".7"/>
+  <path d="M0 314C240 275 380 356 590 317S938 265 1200 308" fill="none" stroke="#00e5ff" stroke-width="1" opacity=".25"/>
+
+  <g transform="translate(70 69)">
+    <rect width="92" height="92" rx="24" fill="#0b1223" stroke="url(#accent)" stroke-width="2"/>
+    <text x="46" y="59" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">MT</text>
+    <circle cx="77" cy="16" r="5" fill="#00e5ff" filter="url(#softGlow)">
+      <animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="194" y="113" fill="#8fa2c9" font-size="15" font-weight="700" letter-spacing="4">SYSTEM IDENTITY</text>
+    <text x="194" y="177" fill="#ffffff" font-size="55" font-weight="800">MD. MAHAMODUL HASAN</text>
+    <text x="194" y="231" fill="url(#accent)" font-size="55" font-weight="900">TAJ</text>
+
+    <text x="198" y="274" fill="#d8e3ff" font-size="22" font-weight="600">Software Engineer  •  Full Stack Developer</text>
+    <text x="198" y="309" fill="#98a9cb" font-size="18">React  •  Next.js  •  NestJS  •  Laravel  •  Django  •  .NET  •  PostgreSQL</text>
+  </g>
+
+  <g transform="translate(940 145)">
+    <rect width="190" height="112" rx="20" fill="#0b1223" fill-opacity=".9" stroke="#7c4dff" stroke-width="1.5"/>
+    <circle cx="25" cy="24" r="5" fill="#ff4fc3"/>
+    <circle cx="43" cy="24" r="5" fill="#ffd166"/>
+    <circle cx="61" cy="24" r="5" fill="#00e5ff"/>
+    <path d="M27 57l18 15-18 15M86 89h42" fill="none" stroke="#00e5ff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="147" y="48" width="16" height="45" rx="5" fill="#7c4dff">
+      <animate attributeName="height" values="20;45;20" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="73;48;73" dur="1.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="24" y="24" width="1152" height="312" rx="22" fill="none" stroke="url(#accent)" stroke-opacity=".42"/>
+</svg>

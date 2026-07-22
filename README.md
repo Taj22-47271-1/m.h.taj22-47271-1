@@ -1,6 +1,10 @@
 <div align="center">
   <a href="https://mh-taj-portfolio.vercel.app/">
-    <img src="./github-banner.svg" alt="Md. Mahamodul Hasan Taj — Software Engineer and Full-Stack Developer" width="100%" />
+    <img
+      src="./github-banner.svg"
+      alt="Md. Mahamodul Hasan Taj — Software Engineer and Full-Stack Developer"
+      width="100%"
+    />
   </a>
 </div>
 

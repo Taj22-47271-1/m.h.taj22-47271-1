@@ -256,10 +256,39 @@ I enjoy transforming ideas into complete software products—from responsive use
 
 ---
 
-## 🌐 3D Contribution Graph
+## 📊 GitHub Performance
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taj22-47271-1&theme=tokyonight"
+    alt="GitHub Statistics"
+    height="180"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taj22-47271-1&theme=tokyonight"
+    alt="Most Used Languages"
+    height="180"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Taj22-47271-1&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Taj22-47271-1&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+    width="98%"
+  />
 </div>
 
 ---

@@ -269,11 +269,7 @@ I enjoy transforming ideas into complete software products—from responsive use
 ## 🌐 3D Contribution Graph
 
 <div align="center">
-  <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-    alt="GitHub 3D Contribution Graph"
-    width="100%"
-  />
+ <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D Contribution Graph" width="100%" />
 </div>
 
 ---

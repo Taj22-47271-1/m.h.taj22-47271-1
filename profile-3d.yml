@@ -1,4 +1,4 @@
-name: .github/workflows/profile-3d.yml
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
@@ -11,7 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub 3D contribution graph
+    name: Generate GitHub 3D Contribution Graph
 
     steps:
       - name: Checkout repository
@@ -28,6 +28,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
+
           if git diff --cached --quiet; then
             echo "No 3D graph changes to commit."
           else
